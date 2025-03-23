@@ -158,7 +158,7 @@ multidict==6.1.0
 murmurhash==1.0.12
 mysql==0.0.3
 mysql-connector-python==9.2.0
-mysqlclient==2.2.7
+
 namex==0.0.8
 narwhals==1.30.0
 nbclassic==1.0.0
